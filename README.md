@@ -1,12 +1,17 @@
 # lantern-test
 
-## Installation
+## Quick Start
 
 lantern-test works on OS X and Windows. 
 
 Requires [nodejs](http://nodejs.org/)
 
-`npm install -g lantern-test`
+```
+git clone https://github.com/getlantern/lantern-test.git
+cd lantern-test
+npm install
+./lantern-test.js <username> <password>
+```
 
 ## Usage
 

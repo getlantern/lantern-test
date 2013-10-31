@@ -1,0 +1,24 @@
+{
+  "name": "lantern-test",
+  "version": "0.0.1-1",
+  "author": "Ox Cart <ox@getlantern.org>",
+  "license": "BSD",
+  "description": "Test suite for Lantern",
+  "main": "./lantern-test.js",
+  "bin": {
+    "lantern-test": "./lantern-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getlantern/lantern-test"
+  },
+  "dependencies": {
+    "lodash": "2.2.1",
+    "optimist": "0.6.0",
+    "selenium-webdriver": "2.37.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md"
+}
